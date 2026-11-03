@@ -14,7 +14,7 @@ Java Spring Boot, React, Three.js, PostgreSQL, Spring Data JPA, Maven.
 
 ## Team
 - Odissey Larshin - UI/UX, frontend, controllers and integration.
-- Salkhadinov Aldiyar — database, repositories and booking services.
+- Salkhadinov Aldiyar(Parquet141) — database, repositories and booking services.
 
 ## Status
 Requirements, UX/UI design and architecture prepared for Lab 7.
